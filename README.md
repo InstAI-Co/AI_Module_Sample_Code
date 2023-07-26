@@ -1,9 +1,9 @@
-# InstAI C-Series AI Module Sample Code
+# InstAI E-Series AI Module Sample Code
 This sample code demonstrates how to communicate with InstAI Compact-Series AI Module in C/C++ on your host.
 
 Currently compatible with Raspberry Pi platform and Arduino framework.
-## C-Series AI Module
-InstAI C-Series AI Module provides the following object detection(OD) operation modes:
+## E-Series AI Module
+InstAI E-Series AI Module provides the following object detection(OD) operation modes:
 1. **Idle Mode (IDLE_MODE)**: When AI Module is in idle state, it would not provide any information to Host even when the interested objects were detected.
 2. **Object Detection Mode (OD_MODE)**: When any of the interested objects were detected, interrupt event occurred, which means the OD result is ready to be retrieved from Host. <br /> <img src="./readme_pic/op_od_mode.svg">
 3. **Sensor Motion Object Detection Mode (S_MOTION_OD_MODE)**: Switch to sensor motion detection state upon entering this mode. When sensor detects the difference between captured images, NPU would be powered up, started to inference the latest image and provide the OD results. When NPU has not detected any of the interested objects for more than 5 seconds, AI Module switches back to sensor motion detection state to save power consumption. <br /> <img src="./readme_pic/op_smotion_od_mode.svg">
@@ -35,7 +35,7 @@ Here is the graph presents the file hierarchy of this sample code:
     ```
     * For other platforms, remove the above platform definition in the file interface.h and finish implementing the platform-dependent hardware functions in the source code interface.h and interface.cpp.
 
-2. **C-Series AI Module API Layer (ai_module.h & ai_module.cpp)**: After finished implementing the platform-dependent APIs, ai_module.h & ai_module.cpp have the ability to access AI Module by digital pins of Host, so that user program on User Application Layer (main.cpp) can manipulate AI Module with the APIs provided by this layer.
+2. **E-Series AI Module API Layer (ai_module.h & ai_module.cpp)**: After finished implementing the platform-dependent APIs, ai_module.h & ai_module.cpp have the ability to access AI Module by digital pins of Host, so that user program on User Application Layer (main.cpp) can manipulate AI Module with the APIs provided by this layer.
 
 3. **User Application Layer (main.cpp)**: The source code provides the demonstration of how your host communicates with AI Module by AI Module API Layer. When user pressed the button, AI Module will be changed to the next mode with the sequence **IDLE_MODE→OD_MODE→S_MOTION_OD_MODE→OD_JPEG_MODE→S_MOTION_OD_JPEG_MODE→IDLE_MODE**. <br /> Here is the flowchart of AI Module Application Sample Code: <br /> <img src="./readme_pic/sample_code_flowchart.svg"> <br/>
     * The pin USER_BUTTON_PIN should be defined on your host and pull **LOW** when the button is not pressed:
@@ -90,7 +90,7 @@ Here is the graph presents the file hierarchy of this sample code:
    ```
       When JPEG was received from AI Module, the API would call the registered JPEG saving function with filled parameters `jpeg_data`, `jpeg_size` and `od_result`.
 
-## C-Series AI Module Sample Code Demo Video
-Here is the demo video of operating C-Series AI Module with Arduino framework on Host ESP32 (NodeMCU-32S Development Kit)
+## E-Series AI Module Sample Code Demo Video
+Here is the demo video of operating E-Series AI Module with Arduino framework on Host ESP32 (NodeMCU-32S Development Kit)
 
 [![Video](http://img.youtube.com/vi/UdGCmzfL9Gk/0.jpg)](http://www.youtube.com/watch?v=UdGCmzfL9Gk)
