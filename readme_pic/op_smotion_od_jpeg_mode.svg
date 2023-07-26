@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- 由 Microsoft Visio, SVG Export 產生 op_smotion_od_jpeg_mode.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.95414in" height="1.34552in"
-		viewBox="0 0 572.698 96.8774" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.80848in" height="1.91638in"
+		viewBox="0 0 418.21 137.98" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
 	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
@@ -13,7 +13,7 @@
 		.st3 {fill:#000000;font-family:Times New Roman;font-size:0.666664em}
 		.st4 {font-size:1em}
 		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st6 {marker-end:url(#mrkr5-30);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {marker-end:url(#mrkr5-31);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
 		.st8 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
@@ -24,7 +24,7 @@
 		<g id="lend5">
 			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr5-30" class="st7" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
+		<marker id="mrkr5-31" class="st7" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
 		</marker>
@@ -35,14 +35,14 @@
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="流程圖" v:index="0"/>
 		<v:layer v:name="連接器" v:index="1"/>
-		<g id="shape527-1" v:mID="527" v:groupContext="shape" transform="translate(0.05,-0.05)">
+		<g id="shape632-1" v:mID="632" v:groupContext="shape" transform="translate(0.05,-0.05)">
 			<title>矩形.527</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 96.88 L572.6 96.88 L572.6 3.97 L0 3.97 L0 96.88 Z" class="st1"/>
+			<path d="M0 137.98 L418.11 137.98 L418.11 3.97 L0 3.97 L0 137.98 Z" class="st1"/>
 		</g>
-		<g id="shape462-3" v:mID="462" v:groupContext="shape" v:layerMember="0" transform="translate(455.011,-3.06879)">
+		<g id="shape650-3" v:mID="650" v:groupContext="shape" v:layerMember="0" transform="translate(284.271,-5.47729)">
 			<title>程序.462</title>
 			<desc>AI Module Triggers OD Event and Provides Result &#38; JPEG</desc>
 			<v:custProps>
@@ -68,11 +68,11 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="55.9134" cy="82.4621" width="111.83" height="28.8305"/>
-			<rect x="0" y="68.0469" width="111.827" height="28.8305" class="st2"/>
-			<text x="6.59" y="80.06" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>AI Module Triggers OD Event <tspan
+			<v:textRect cx="55.9134" cy="123.564" width="111.83" height="28.8305"/>
+			<rect x="0" y="109.149" width="111.827" height="28.8305" class="st2"/>
+			<text x="6.59" y="121.16" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>AI Module Triggers OD Event <tspan
 						x="9.69" dy="1.2em" class="st4">and Provides Result </tspan>&#38; JPEG</text>		</g>
-		<g id="shape502-7" v:mID="502" v:groupContext="shape" v:layerMember="0" transform="translate(5.71929,-8.01934)">
+		<g id="shape682-7" v:mID="682" v:groupContext="shape" v:layerMember="0" transform="translate(2.88465,-47.0282)">
 			<title>開始/結束.502</title>
 			<desc>S-Motion OD JPEG Mode</desc>
 			<v:custProps>
@@ -98,15 +98,16 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="48.4564" cy="87.4522" width="96.92" height="18.8504"/>
-			<path d="M9.43 96.88 L87.49 96.88 A9.4252 9.4252 -180 1 0 87.49 78.03 L9.43 78.03 A9.4252 9.4252 -180 1 0 9.43 96.88 Z"
-					class="st2"/>
-			<text x="5.9" y="89.85" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>S-Motion OD JPEG Mode</text>		</g>
-		<g id="shape503-10" v:mID="503" v:groupContext="shape" transform="translate(291.484,-14.947)">
-			<title>工作表.503</title>
-			<ellipse cx="2.39345" cy="94.3798" rx="2.39345" ry="2.49751" class="st5"/>
+			<v:textRect cx="32.8659" cy="126.696" width="65.74" height="22.5678"/>
+			<path d="M11.28 137.98 L54.45 137.98 A11.2839 11.2839 -180 0 0 54.45 115.41 L11.28 115.41 A11.2839 11.2839 -180 1 0 11.28
+						 137.98 Z" class="st2"/>
+			<text x="17.53" y="124.3" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>S-Motion<v:newlineChar/><tspan
+						x="6.64" dy="1.2em" class="st4">OD JPEG Mode</tspan></text>		</g>
+		<g id="shape683-11" v:mID="683" v:groupContext="shape" transform="translate(257.468,-56.0494)">
+			<title>工作表.683</title>
+			<ellipse cx="2.39345" cy="135.482" rx="2.39345" ry="2.49751" class="st5"/>
 		</g>
-		<g id="shape504-12" v:mID="504" v:groupContext="shape" v:layerMember="0" transform="translate(306.759,-3.02931)">
+		<g id="shape684-13" v:mID="684" v:groupContext="shape" v:layerMember="0" transform="translate(272.743,-44.1317)">
 			<title>決策.504</title>
 			<desc>Interested Objects Detected?</desc>
 			<v:custProps>
@@ -132,10 +133,10 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="82.4621" width="112.45" height="21.6228"/>
-			<path d="M0 82.46 L67.46 68.05 L134.93 82.46 L67.46 96.88 L0 82.46 Z" class="st2"/>
-			<text x="21.49" y="84.86" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Interested Objects Detected?</text>		</g>
-		<g id="shape505-15" v:mID="505" v:groupContext="shape" v:layerMember="0" transform="translate(113.436,-8.01934)">
+			<v:textRect cx="67.4646" cy="123.564" width="112.45" height="21.6228"/>
+			<path d="M0 123.56 L67.46 109.15 L134.93 123.56 L67.46 137.98 L0 123.56 Z" class="st2"/>
+			<text x="21.49" y="125.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Interested Objects Detected?</text>		</g>
+		<g id="shape685-16" v:mID="685" v:groupContext="shape" v:layerMember="0" transform="translate(79.4201,-49.1217)">
 			<title>程序.505</title>
 			<desc>S-Motion State</desc>
 			<v:custProps>
@@ -161,10 +162,10 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="33.748" cy="87.4522" width="67.5" height="18.8504"/>
-			<rect x="0" y="78.027" width="67.4961" height="18.8504" class="st2"/>
-			<text x="9.41" y="89.85" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>S-Motion State</text>		</g>
-		<g id="shape506-18" v:mID="506" v:groupContext="shape" v:layerMember="0" transform="translate(191.389,-3.02931)">
+			<v:textRect cx="33.748" cy="128.555" width="67.5" height="18.8504"/>
+			<rect x="0" y="119.129" width="67.4961" height="18.8504" class="st2"/>
+			<text x="9.41" y="130.95" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>S-Motion State</text>		</g>
+		<g id="shape686-19" v:mID="686" v:groupContext="shape" v:layerMember="0" transform="translate(157.373,-44.1317)">
 			<title>決策.506</title>
 			<desc>Motion Occurred?</desc>
 			<v:custProps>
@@ -190,10 +191,10 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.3622" cy="82.4621" width="73.94" height="21.6228"/>
-			<path d="M0 82.46 L44.36 68.05 L88.72 82.46 L44.36 96.88 L0 82.46 Z" class="st2"/>
-			<text x="14.93" y="84.86" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Motion Occurred?</text>		</g>
-		<g id="shape507-21" v:mID="507" v:groupContext="shape" v:layerMember="0" transform="translate(306.759,-41.0637)">
+			<v:textRect cx="44.3622" cy="123.564" width="73.94" height="21.6228"/>
+			<path d="M0 123.56 L44.36 109.15 L88.72 123.56 L44.36 137.98 L0 123.56 Z" class="st2"/>
+			<text x="14.93" y="125.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Motion Occurred?</text>		</g>
+		<g id="shape687-22" v:mID="687" v:groupContext="shape" v:layerMember="0" transform="translate(272.743,-82.1661)">
 			<title>決策.507</title>
 			<desc>No Object Detected for more than 3~4 Seconds</desc>
 			<v:custProps>
@@ -219,87 +220,91 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="78.6855" width="112.45" height="27.2878"/>
-			<path d="M0 78.69 L67.46 60.49 L134.93 78.69 L67.46 96.88 L0 78.69 Z" class="st2"/>
-			<text x="30.04" y="76.29" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No Object Detected for<v:newlineChar/><tspan
+			<v:textRect cx="67.4646" cy="119.788" width="112.45" height="27.2878"/>
+			<path d="M0 119.79 L67.46 101.6 L134.93 119.79 L67.46 137.98 L0 119.79 Z" class="st2"/>
+			<text x="30.04" y="117.39" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No Object Detected for<v:newlineChar/><tspan
 						x="29.86" dy="1.2em" class="st4">more than </tspan>3~4 Seconds</text>		</g>
-		<g id="shape508-25" v:mID="508" v:groupContext="shape" v:layerMember="1" transform="translate(100.947,-10.3579)">
+		<g id="shape688-26" v:mID="688" v:groupContext="shape" v:layerMember="1" transform="translate(66.9316,-51.3429)">
 			<title>動態連接器.508</title>
-			<path d="M1.68 89.79 L6.77 89.79" class="st6"/>
+			<path d="M1.68 131.01 L6.77 130.9" class="st6"/>
 		</g>
-		<g id="shape509-31" v:mID="509" v:groupContext="shape" v:layerMember="1" transform="translate(179.074,-10.3579)">
+		<g id="shape689-32" v:mID="689" v:groupContext="shape" v:layerMember="1" transform="translate(145.058,-51.4603)">
 			<title>動態連接器.509</title>
-			<path d="M1.86 89.79 L6.59 89.79" class="st6"/>
+			<path d="M1.86 130.89 L6.59 130.89" class="st6"/>
 		</g>
-		<g id="shape510-36" v:mID="510" v:groupContext="shape" v:layerMember="1" transform="translate(278.712,-10.3579)">
+		<g id="shape690-37" v:mID="690" v:groupContext="shape" v:layerMember="1" transform="translate(244.696,-51.4603)">
 			<title>動態連接器.510</title>
-			<path d="M1.4 89.79 L7.05 89.79" class="st6"/>
+			<path d="M1.4 130.89 L7.05 130.89" class="st6"/>
 		</g>
-		<g id="shape511-41" v:mID="511" v:groupContext="shape" v:layerMember="1" transform="translate(294.428,-10.3579)">
+		<g id="shape691-42" v:mID="691" v:groupContext="shape" v:layerMember="1" transform="translate(260.412,-51.4603)">
 			<title>動態連接器.511</title>
-			<path d="M1.84 89.79 L6.61 89.79" class="st6"/>
+			<path d="M1.84 130.89 L6.61 130.89" class="st6"/>
 		</g>
-		<g id="shape512-46" v:mID="512" v:groupContext="shape" v:layerMember="1" transform="translate(441.263,-10.3777)">
+		<g id="shape692-47" v:mID="692" v:groupContext="shape" v:layerMember="1" transform="translate(347.283,-46.3063)">
 			<title>動態連接器.512</title>
-			<path d="M0.43 89.81 L8.03 89.79" class="st6"/>
+			<path d="M-7.08 140.15 L-7.08 144.26" class="st6"/>
 		</g>
-		<g id="shape513-51" v:mID="513" v:groupContext="shape" v:layerMember="1" transform="translate(367.137,-29.3751)">
+		<g id="shape693-52" v:mID="693" v:groupContext="shape" v:layerMember="1" transform="translate(333.121,-70.4775)">
 			<title>動態連接器.513</title>
-			<path d="M7.09 94.39 L7.09 90.91" class="st6"/>
+			<path d="M7.09 135.5 L7.09 132.01" class="st6"/>
 		</g>
-		<g id="shape514-56" v:mID="514" v:groupContext="shape" v:layerMember="1" transform="translate(374.223,-77.4474)">
+		<g id="shape694-57" v:mID="694" v:groupContext="shape" v:layerMember="1" transform="translate(340.207,-118.55)">
 			<title>動態連接器.514</title>
-			<path d="M0 96.88 L0 86.25 L-227.04 86.25 L-227.04 141.73" class="st6"/>
+			<path d="M0 137.98 L0 127.35 L-227.04 127.35 L-227.04 182.83" class="st6"/>
 		</g>
-		<g id="shape515-61" v:mID="515" v:groupContext="shape" v:layerMember="1" transform="translate(228.664,-31.8598)">
+		<g id="shape695-62" v:mID="695" v:groupContext="shape" v:layerMember="1" transform="translate(194.648,-72.9621)">
 			<title>動態連接器.515</title>
-			<path d="M7.09 96.88 L7.09 46.99" class="st6"/>
+			<path d="M7.09 137.98 L7.09 88.09" class="st6"/>
 		</g>
-		<g id="shape516-66" v:mID="516" v:groupContext="shape" transform="translate(268.995,-0.833257)">
-			<title>工作表.516</title>
+		<g id="shape696-67" v:mID="696" v:groupContext="shape" transform="translate(234.979,-41.9356)">
+			<title>工作表.696</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="4.58" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape517-69" v:mID="517" v:groupContext="shape" transform="translate(232.491,-24.9277)">
-			<title>工作表.517</title>
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="4.58" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape697-70" v:mID="697" v:groupContext="shape" transform="translate(198.475,-66.0301)">
+			<title>工作表.697</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="5.91" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape518-72" v:mID="518" v:groupContext="shape" transform="translate(433.751,-0.833257)">
-			<title>工作表.518</title>
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="5.91" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape698-73" v:mID="698" v:groupContext="shape" transform="translate(343.578,-29.735)">
+			<title>工作表.698</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="4.58" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape519-75" v:mID="519" v:groupContext="shape" transform="translate(374.223,-24.9277)">
-			<title>工作表.519</title>
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="4.58" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape699-76" v:mID="699" v:groupContext="shape" transform="translate(340.207,-66.0301)">
+			<title>工作表.699</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="5.91" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape520-78" v:mID="520" v:groupContext="shape" transform="translate(372.459,-71.6207)">
-			<title>工作表.520</title>
-			<desc>No</desc>
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="5.91" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape700-79" v:mID="700" v:groupContext="shape" transform="translate(338.444,-112.723)">
+			<title>工作表.700</title>
+			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="5.91" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape521-81" v:mID="521" v:groupContext="shape" v:layerMember="1" transform="translate(307.404,-59.2556)">
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="4.58" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape701-82" v:mID="701" v:groupContext="shape" v:layerMember="1" transform="translate(273.389,-100.358)">
 			<title>動態連接器.521</title>
-			<path d="M-0.65 96.88 L-13.53 96.88 L-13.53 130.47" class="st6"/>
+			<path d="M-0.65 137.98 L-13.53 137.98 L-13.53 171.57" class="st6"/>
 		</g>
-		<g id="shape522-86" v:mID="522" v:groupContext="shape" transform="translate(290.255,-53.7804)">
-			<title>工作表.522</title>
-			<desc>Yes</desc>
+		<g id="shape702-87" v:mID="702" v:groupContext="shape" transform="translate(256.239,-94.8828)">
+			<title>工作表.702</title>
+			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="86.8774" width="21.61" height="20"/>
-			<rect x="0" y="76.8774" width="21.6063" height="20" class="st8"/>
-			<text x="4.58" y="89.28" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+			<v:textRect cx="10.8031" cy="127.98" width="21.61" height="20"/>
+			<rect x="0" y="117.98" width="21.6063" height="20" class="st8"/>
+			<text x="5.91" y="130.38" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape703-90" v:mID="703" v:groupContext="shape" v:layerMember="1" transform="translate(284.271,-19.8925)">
+			<title>動態連接器.856</title>
+			<path d="M0 137.98 L-24.41 137.98 L-24.41 107.55" class="st6"/>
+		</g>
 	</g>
 </svg>

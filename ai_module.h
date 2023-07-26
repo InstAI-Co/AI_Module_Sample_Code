@@ -1,5 +1,5 @@
 /** InstAI Co. (Public Version)
-    Description: This is the sample code for complete API (OD/S-Motion OD/S_MOTION_JPEG_OD) for InstAI C-series AI Module
+    Description: This is the sample code for complete API (OD/S-Motion OD/S_MOTION_JPEG_OD) for InstAI E-series AI Module
     Modified Date: Feb 25, 2023
     Remark: this C/C++ Library only supports single AI module connected to the host
 */

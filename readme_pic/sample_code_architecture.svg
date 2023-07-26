@@ -233,11 +233,11 @@
 			<text x="73.28" y="183" class="st6" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>main.cpp</text>		</g>
 		<g id="shape358-25" v:mID="358" v:groupContext="shape" transform="translate(0.375,-110.601)">
 			<title>工作表.358</title>
-			<desc>C-series AI Module API Layer</desc>
+			<desc>E-series AI Module API Layer</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="37.8248" cy="175.95" width="75.65" height="28.1417"/>
 			<rect x="0" y="161.88" width="75.6496" height="28.1417" class="st2"/>
-			<text x="4.5" y="173.55" class="st7" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>C-series AI Module<v:newlineChar/><tspan
+			<text x="4.72" y="173.55" class="st7" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>E-series AI Module<v:newlineChar/><tspan
 						x="19.72" dy="1.2em" class="st4">API Layer</tspan></text>		</g>
 		<g id="shape359-29" v:mID="359" v:groupContext="shape" transform="translate(6.57972,-157.215)">
 			<title>工作表.359</title>
