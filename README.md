@@ -1,5 +1,5 @@
 # InstAI E-Series AI Module Sample Code
-This sample code demonstrates how to communicate with InstAI Compact-Series AI Module in C/C++ on your host.
+This sample code demonstrates how to communicate with InstAI Economic-Series AI Module (Compact Model) in C/C++ on your host device.
 
 Currently compatible with Raspberry Pi platform and Arduino framework.
 ## E-Series AI Module
