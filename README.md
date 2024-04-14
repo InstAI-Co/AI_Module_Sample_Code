@@ -3,9 +3,11 @@ This sample code demonstrates how to communicate with InstAI Economic-Series AI 
 
 Currently compatible with Raspberry Pi platform and Arduino framework.
 ## E-Series AI Module
-Here is the outlook of InstAI E-Series AI-Module:
+Here is the outlook and size of InstAI E-Series AI-Module:
 
-<img src="./readme_pic/outlook.png">
+<p align="center">
+   <img src="./readme_pic/outlook.png" height=100>
+</p>
 
 InstAI E-Series AI Module provides the following object detection(OD) operation modes:
 1. **Idle Mode (IDLE_MODE)**: When AI Module is in idle state, it would not provide any information to Host even when the interested objects were detected.
