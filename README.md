@@ -98,6 +98,19 @@ Here is the graph presents the file hierarchy of this sample code:
    ```
       When JPEG was received from AI Module, the API would call the registered JPEG saving function with filled parameters `jpeg_data`, `jpeg_size` and `od_result`.
 
+## Raspberry Pi Environment Setup
+1. Type the following commands in terminal to install dependent library **bcm2835**, please refer to the [link](https://www.airspayce.com/mikem/bcm2835/)
+   ```Shell
+   # download the latest version of the library, say bcm2835-1.71.tar.gz, then:
+   tar zxvf bcm2835-1.71.tar.gz
+   cd bcm2835-1.71
+   ./configure
+   make
+   sudo make check
+   sudo make install
+   ```
+2. Add the linker option `-lbcm2835` in C project before compiling
+
 ## E-Series AI Module Sample Code Demo Video
 Here is the demo video of operating E-Series AI Module with Arduino framework on Host ESP32 (NodeMCU-32S Development Kit)
 
